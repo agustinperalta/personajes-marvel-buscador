@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06aee594de42dc0ac6a080322ab91abe",
+    "revision": "03570689b62e5bbacf526846798a9e33",
     "url": "/personajes-marvel-buscador/index.html"
   },
   {
