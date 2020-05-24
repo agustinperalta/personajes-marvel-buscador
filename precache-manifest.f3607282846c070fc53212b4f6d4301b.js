@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98bd4f18986a041eb934ea9b08ee4af9",
+    "revision": "04e4bd68f742d596f134ab5279d14b86",
     "url": "/personajes-marvel-buscador/index.html"
   },
   {
-    "revision": "664b0f7f4fa3ce0e63b0",
-    "url": "/personajes-marvel-buscador/static/css/main.5e092bb1.chunk.css"
+    "revision": "00b5f035cff6fb972c18",
+    "url": "/personajes-marvel-buscador/static/css/main.1d094490.chunk.css"
   },
   {
     "revision": "079dc3b5c891818250dc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personajes-marvel-buscador/static/js/2.30088690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "664b0f7f4fa3ce0e63b0",
+    "revision": "00b5f035cff6fb972c18",
     "url": "/personajes-marvel-buscador/static/js/main.535a531b.chunk.js"
   },
   {
