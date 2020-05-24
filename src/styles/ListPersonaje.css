@@ -1,0 +1,47 @@
+.item-personaje{
+    display: flex;
+    margin-bottom: 10px;
+    width: 45%;
+    
+}
+
+.list-personaje{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.ui.card{
+    height: 250px;
+}
+
+.ui.card > .content-image{
+    height: 70%;
+}
+
+@media only screen and (min-width: 695px)
+{
+    .list-personaje{
+        margin-left: 5%;
+    }
+}
+
+@media only screen and (min-width: 762px)
+{
+    .list-personaje{
+        margin-left: 10%;
+    }
+}
+
+
+@media only screen and (min-width: 992px)
+{
+    .list-personaje{
+        margin-left: 13%;
+    }
+}
