@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personajes-marvel-buscador/static/css/main.5e092bb1.chunk.css",
+    "main.js": "/personajes-marvel-buscador/static/js/main.535a531b.chunk.js",
+    "main.js.map": "/personajes-marvel-buscador/static/js/main.535a531b.chunk.js.map",
+    "runtime-main.js": "/personajes-marvel-buscador/static/js/runtime-main.118f8837.js",
+    "runtime-main.js.map": "/personajes-marvel-buscador/static/js/runtime-main.118f8837.js.map",
+    "static/js/2.30088690.chunk.js": "/personajes-marvel-buscador/static/js/2.30088690.chunk.js",
+    "static/js/2.30088690.chunk.js.map": "/personajes-marvel-buscador/static/js/2.30088690.chunk.js.map",
+    "index.html": "/personajes-marvel-buscador/index.html",
+    "precache-manifest.6863c63482374ac7fef8b4def1463df9.js": "/personajes-marvel-buscador/precache-manifest.6863c63482374ac7fef8b4def1463df9.js",
+    "service-worker.js": "/personajes-marvel-buscador/service-worker.js",
+    "static/css/main.5e092bb1.chunk.css.map": "/personajes-marvel-buscador/static/css/main.5e092bb1.chunk.css.map",
+    "static/js/2.30088690.chunk.js.LICENSE.txt": "/personajes-marvel-buscador/static/js/2.30088690.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.118f8837.js",
+    "static/js/2.30088690.chunk.js",
+    "static/css/main.5e092bb1.chunk.css",
+    "static/js/main.535a531b.chunk.js"
+  ]
+}
