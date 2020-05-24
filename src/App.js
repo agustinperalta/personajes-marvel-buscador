@@ -36,7 +36,7 @@ function App(props){
     }
     return(
         <div className="Main-Container">
-            <Title content = "Buscar Personajes"/>
+            <Title content = "Buscador Personajes"/>
             <SearchForm onResults = {_handleResult} offset= {currentOffset} currentOffset = {setCurrentOffset} activePage = {setActivePage} />
             {results === null ? <Loader/> : results.length === 0 ? 'No hay resultados' : <ListPersonajes personajes={results}/>}
             <div className="Paginator">
