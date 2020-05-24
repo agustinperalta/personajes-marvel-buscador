@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/personajes-marvel-buscador/precache-manifest.1e6b94115d5d2e46cdd172d87eca08ea.js"
+  "/personajes-marvel-buscador/precache-manifest.b4a542531e3eac5f5f6dfbec40ac9cbe.js"
 );
 
 self.addEventListener('message', (event) => {
